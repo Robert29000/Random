@@ -2,4 +2,6 @@
     <string name="app_name">Random</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
+    <string name="String">Введите число</string>
+    <string name="String1">Введите число</string>
 </resources>
